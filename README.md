@@ -99,11 +99,7 @@ assets/
    flutter run
    ```
 
-### 📸 Ekran Görüntüleri
 
-| Ana Sayfa | Ürün Listesi | Ürün Detayı |
-|-----------|--------------|-------------|
-| Gradient arka planlı karşılama ekranı | GridView ile kart tasarımı | Detaylı ürün bilgisi |
 
 ### 🏗️ Teknik Detaylar
 
@@ -184,9 +180,6 @@ Katkılarınızı bekliyoruz! Lütfen şu adımları izleyin:
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
-### 👨‍💻 Geliştirici
-
-Sorularınız için [issue](https://github.com/kullanici-adi/mini_katalog/issues) açabilirsiniz.
 
 ### 🌟 Teşekkür
 
@@ -269,18 +262,8 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-### 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-<div align="center">
 
-**⭐ Eğer bu proje işinize yaradıysa, yıldız vermeyi unutmayın! ⭐**
-
-**⭐ If you found this project helpful, don't forget to give it a star! ⭐**
-
-Made with ❤️ using Flutter
-
-</div>
