@@ -78,7 +78,7 @@ assets/
 
 1. **Projeyi klonlayın:**
    ```bash
-   git clone https://github.com/kullanici-adi/mini_katalog.git
+   git clone https://github.com/Selbihan/MiniKatalog.git
    cd mini_katalog
    ```
 
@@ -231,7 +231,7 @@ This project teaches you the following Flutter concepts:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/mini_katalog.git
+   git clone https://https://github.com/Selbihan/MiniKatalog.git
    cd mini_katalog
    ```
 
